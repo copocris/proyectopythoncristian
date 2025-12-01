@@ -1,6 +1,6 @@
-"""charfun.py
+"""main.py
 Autor: Cristian Fernandez Cornejo
-Fecha: 30/11/2024
+Fecha: 30/11/2025
 """
 
 from modulo1.funciones import esPalindromo
